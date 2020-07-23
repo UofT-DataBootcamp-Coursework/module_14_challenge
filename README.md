@@ -1,5 +1,5 @@
 # Module 14 Challenge - NYC Citi Bike Analysis
-![](images/citi_logo.jpg)
+![](images/citi_logo.png)
 
 ## Challenge Overview
 
@@ -21,7 +21,7 @@ Tableau Story: []() <-insert final story link
 ## Analysis
 
 ### Bike-sharing program in Des Moines: a smart, eco-friendly, and profitable solution
-![](images/citi_bikes.png)
+![](images/citi_bikes.jpg)
 
 **What is the population of Des Moines?** 
 

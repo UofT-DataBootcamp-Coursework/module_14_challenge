@@ -21,7 +21,7 @@ Tableau Story: []() <-insert final story link
 ## Analysis
 
 ### Bike-sharing program in Des Moines: a smart, eco-friendly, and profitable solution
-![](images/citi_bikes.PNG)
+![](images/citi_bikes.png)
 
 **What is the population of Des Moines?** 
 

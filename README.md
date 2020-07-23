@@ -17,13 +17,15 @@ Software: Tableau, Microsoft Excel
 
 Tableau Story: []() <-insert final story link
 
-## Analysis - Bike-sharing program in Des Moines: a smart, eco-friendly, and profitable solution
+## Analysis
 
-What is the population of Des Moines? 
+### Bike-sharing program in Des Moines: a smart, eco-friendly, and profitable solution
 
-How does its population compare to the population of New York City? 
+**What is the population of Des Moines?** 
 
-Does the population affect the number of people who will use the bike-sharing program?
+**How does its population compare to the population of New York City?**
+
+**Does the population affect the number of people who will use the bike-sharing program?**
 
 + 3 pieces of supplemental info
 

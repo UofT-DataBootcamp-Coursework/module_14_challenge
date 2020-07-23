@@ -12,7 +12,7 @@ The goals of this challenge are to:
 
 ## Resources
 
-Data Sources: [201908-citibike-tripdata.csv.zip](https://s3.amazonaws.com/tripdata/index.html), [Encyclopaedia Britannica - Des Moines, Iowa](https://www.britannica.com/place/Des-Moines), [US Census, QuickFacts - NYC vs Des Moines](https://www.census.gov/quickfacts/fact/table/newyorkcitynewyork,desmoinescityiowa/PST045219), [Catch Des Moines](https://www.catchdesmoines.com/), [Des Moines - McDonalds dataset](raw_data/ia_mcdonalds.csv), [NYC - McDonalds dataset](raw_data/ny_mcdonalds.csv)
+Data Sources: [201908-citibike-tripdata.csv.zip](https://s3.amazonaws.com/tripdata/index.html), [Encyclopaedia Britannica - Des Moines, Iowa](https://www.britannica.com/place/Des-Moines), [US Census, QuickFacts - NYC vs Des Moines](https://www.census.gov/quickfacts/fact/table/newyorkcitynewyork,desmoinescityiowa/PST045219), [Catch Des Moines](https://www.catchdesmoines.com/)
 
 Software: Tableau, Microsoft Excel
 

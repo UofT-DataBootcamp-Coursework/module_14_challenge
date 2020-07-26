@@ -16,7 +16,7 @@ Data Sources: [201908-citibike-tripdata.csv.zip](https://s3.amazonaws.com/tripda
 
 Software: Tableau, Microsoft Excel
 
-Tableau Story: [](https://public.tableau.com/profile/martin.kaminskyj#!/vizhome/citibike_challenge/Mod14Challenge?publish=yes)
+[Tableau Story](https://public.tableau.com/profile/martin.kaminskyj#!/vizhome/citibike_challenge/Mod14Challenge?publish=yes)
 
 ## Analysis
 
